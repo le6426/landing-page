@@ -160,7 +160,7 @@
     font-size: 36px;
     color: #1F2937;
     font-weight: 300;
-    font-style: italic;
+    font-style: italic; 
 }
 .section-four .quoter {
     flex: 1;
